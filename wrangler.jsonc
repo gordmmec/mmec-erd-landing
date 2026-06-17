@@ -6,7 +6,8 @@
   "compatibility_flags": ["nodejs_compat"],
   "assets": {
     "directory": ".",
-    "binding": "ASSETS"
+    "binding": "ASSETS",
+    "html_handling": "none"
   },
   "r2_buckets": [
     { "binding": "EMAIL_BUCKET", "bucket_name": "erd-email" }
