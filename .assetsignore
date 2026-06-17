@@ -6,4 +6,5 @@
 wrangler.jsonc
 .wrangler/**
 node_modules/**
+src/**
 README.md
